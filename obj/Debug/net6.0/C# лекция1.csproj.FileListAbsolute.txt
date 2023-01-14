@@ -1,0 +1,15 @@
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\bin\Debug\net6.0\C# лекция1.exe
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\bin\Debug\net6.0\C# лекция1.deps.json
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\bin\Debug\net6.0\C# лекция1.runtimeconfig.json
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\bin\Debug\net6.0\C# лекция1.dll
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\bin\Debug\net6.0\C# лекция1.pdb
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.csproj.AssemblyReference.cache
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.AssemblyInfoInputs.cache
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.AssemblyInfo.cs
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.csproj.CoreCompileInputs.cache
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.dll
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\refint\C# лекция1.dll
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.pdb
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\C# лекция1.genruntimeconfig.cache
+C:\Users\chizh\OneDrive\Desktop\C# лекция1\obj\Debug\net6.0\ref\C# лекция1.dll
